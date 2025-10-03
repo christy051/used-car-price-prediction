@@ -1,3 +1,4 @@
+HEAD
 🚗 Used Car Price Prediction
 
 📌 Project Overview
@@ -26,3 +27,6 @@ Additionally, EDA (Exploratory Data Analysis) is performed to identify market in
 
 
 📂 Project Structure
+# used-car-price-prediction
+Used Car Price Prediction with Machine Learning (XGBoost + Streamlit Dashboard + Power BI)
+
