@@ -29,4 +29,5 @@ Additionally, EDA (Exploratory Data Analysis) is performed to identify market in
 📂 Project Structure
 # used-car-price-prediction
 Used Car Price Prediction with Machine Learning (XGBoost + Streamlit Dashboard + Power BI)
-
+## Demo Video
+You can watch the project demo here: [Used Car Price Prediction Demo] (https://drive.google.com/file/d/1aJc1qe5F7oM8pRu5DfphVi7P5e8hiH73/view?usp=sharing)
