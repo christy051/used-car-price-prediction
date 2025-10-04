@@ -68,10 +68,10 @@ A separate Power BI dashboard was developed to visualize:
 👉 Used Car Price Prediction Demo
 
 
-📄 Project Report
+Project Report
 
-You can view or download the full Data Analyst Project Report (PDF) here:
-👉 Used Car Price Prediction Report
+📄 Full detailed report of the project is available here:
+👉 Used Car Price Prediction Report (PDF)
 
 
 📂 Project Structure
