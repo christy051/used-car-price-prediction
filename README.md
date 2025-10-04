@@ -70,11 +70,17 @@ A separate Power BI dashboard was developed to visualize:
 📄 Full detailed report of the project is available here:  
 👉 [Used Car Price Prediction Report (PDF)](./report/Used%20Car%20Price%20Prediction%20Report.pdf)
 
+<<<<<<< HEAD
 
 🎥 Demo Video  
 You can watch the project demo here:  
 👉 [Used Car Price Prediction Demo (Google Drive)](https://drive.google.com/file/d/1aJc1qe5F7oM8pRu5DfphVi7P5e8hiH73/view?usp=sharing)
 
+=======
+📊 Project Report  
+📄 Full detailed report of the project is available here:  
+👉 [Used Car Price Prediction Report (PDF)](./report/Used%20Car%20Price%20Prediction%20Report.pdf)
+>>>>>>> bab28023e2587717418fbd3126cf772b44dd28b4
 
 
 📂 Project Structure
