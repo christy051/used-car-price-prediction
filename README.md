@@ -47,10 +47,14 @@ An interactive dashboard was created using Streamlit where users can input:
 
 🟢 How to Run
 
-Step 1: Install dependencies
+Step 1: Clone this repository:
+git clone https://github.com/your-username/used-car-price-prediction.git
+cd used-car-price-prediction
+
+Step 2: Install dependencies
 pip install -r requirements.txt
 
-Step 2: Run the Streamlit app
+Step 3: Run the Streamlit app
 streamlit run streamlit_app.py
 
 📈 Power BI Dashboard
@@ -62,16 +66,15 @@ A separate Power BI dashboard was developed to visualize:
 - Market distribution of car types
 
 
-🎥 Demo Video
+📊 Project Report  
+📄 Full detailed report of the project is available here:  
+👉 [Used Car Price Prediction Report (PDF)](./report/Used%20Car%20Price%20Prediction%20Report.pdf)
 
-🎬 You can watch the full project demonstration video here:
-👉 Used Car Price Prediction Demo
 
+🎥 Demo Video  
+You can watch the project demo here:  
+👉 [Used Car Price Prediction Demo (Google Drive)](https://drive.google.com/file/d/1aJc1qe5F7oM8pRu5DfphVi7P5e8hiH73/view?usp=sharing)
 
-📄 Project Report
-
-You can view or download the full Data Analyst Project Report (PDF) here:
-👉 Used Car Price Prediction Report
 
 
 📂 Project Structure
